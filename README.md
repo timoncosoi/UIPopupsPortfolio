@@ -1,6 +1,7 @@
 Example of a pop-up store for purchasing game items 
 The window contains logic to rearrange it for the new currency when you click on different buttons in the main menu.
 Also added to the window is the generation of a random number of packs.  
+For create animations I used the DoTween library.
 This video shows ShopPopup working with aspect ratio 16x9.  
 
 ## Click on the image above to watch the demo video.
