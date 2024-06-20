@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!612988286 &1
+SpriteAtlasAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  serializedVersion: 2
+  m_MasterAtlas: {fileID: 0}
+  m_ImporterData:
+    packables:
+    - {fileID: 2800000, guid: 1e8cc7dbbf61ce04e865ffd5f5c42f39, type: 3}
+    - {fileID: 2800000, guid: c3290b1b36301e54f937b5476ff97e41, type: 3}
+    - {fileID: 2800000, guid: ff3c4c0f5a696954e8a60278dd7c9846, type: 3}
+    - {fileID: 2800000, guid: f74148efa37583c478a676dc60baeabd, type: 3}
+    - {fileID: 2800000, guid: 665bd4a7381ab4847903cf18f0ca2dea, type: 3}
+    - {fileID: 2800000, guid: a7d1550c47d77d64b9f6cf8e0a4bdd08, type: 3}
+    - {fileID: 2800000, guid: 250f59eae33a20443b53a9b313a68841, type: 3}
+    - {fileID: 2800000, guid: 6ed27f9726fd0d445bf69fdc0777dd78, type: 3}
+    - {fileID: 2800000, guid: 0c1c57e214aedf745b5070aefbf13b02, type: 3}
+    - {fileID: 2800000, guid: 36862926732a6d348aac258f02355b1d, type: 3}
+    - {fileID: 2800000, guid: 7b38aa7bc3a43a841a37af1a8a8a2408, type: 3}
+    - {fileID: 2800000, guid: f42342c6b839b4247b180870fc5f179b, type: 3}
+    - {fileID: 2800000, guid: 26f8de20569dfab4791ad43c42e779b1, type: 3}
+    - {fileID: 2800000, guid: 052d7de9d66a40b458723cbfcc507111, type: 3}
+    - {fileID: 2800000, guid: 3217c47dcc103f44e9eb90719d03447b, type: 3}
+    - {fileID: 2800000, guid: b0164bc1ff9e47c42b8d4f40053748c9, type: 3}
+    - {fileID: 2800000, guid: 087b66e746a587248a873cf82468872d, type: 3}
+    - {fileID: 2800000, guid: 841e06d3c9a3c8c4498dd2e9f68ece2b, type: 3}
+    - {fileID: 2800000, guid: f54dc912279154642ba24f348a27b9b8, type: 3}
+    - {fileID: 2800000, guid: 2acdd24d92cc77d4f82c6836442eb249, type: 3}
+    - {fileID: 2800000, guid: 60bf5a3491976ad409908042335dee80, type: 3}
+    - {fileID: 2800000, guid: 6a1d1eca3f189e6459230b155c94cedd, type: 3}
+    - {fileID: 2800000, guid: 66da5b9b54f45bf43bab33fcc16e15e7, type: 3}
+  m_IsVariant: 0

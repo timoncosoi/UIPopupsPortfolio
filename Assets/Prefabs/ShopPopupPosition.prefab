@@ -996,7 +996,7 @@ GameObject:
   - component: {fileID: 5463031349859538791}
   - component: {fileID: 7248188924881087115}
   m_Layer: 5
-  m_Name: BankPosition
+  m_Name: ShopPopupPosition
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
